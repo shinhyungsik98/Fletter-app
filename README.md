@@ -1,4 +1,4 @@
-# fletter-server
+# fletter-app
 
 안드로이드 스튜디오 활용한 꽃 구매 어플 서비스 
 - - -
